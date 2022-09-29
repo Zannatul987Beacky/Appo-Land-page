@@ -1,0 +1,153 @@
+*{
+margin: 0;
+padding: 0;
+border: 0;
+box-sizing: border-box;
+font-family: 'Dosis', sans-serif;
+text-decoration: none;
+}
+header{
+    background-color:#223047;
+}
+.Logo-Part{
+    color: #00fff1;
+}
+.btn-hero{
+    background-color: #00fff1;
+    border-radius: 5px;
+}
+.btn-hero:hover{
+    box-shadow:0px 0px 5px #fff;
+    background-color: #223047;
+    color: #fff;
+}
+.image-mob{
+    position: relative;
+    top: 60px;
+    padding-left: 200px;
+}
+.hero-writing{
+padding-left: 100px;
+}
+
+    /*section (2)*/
+#services{
+    background-color: #fff;
+}   
+.writing-part{
+    color: #223047;
+}
+.writing-part h1{
+    width: 40%;
+    margin: auto;
+}
+.underline{
+border-top:5px solid #00fff1;
+width: 8%;
+}
+.card-body{
+    color: #223047;
+}
+.card{
+    box-shadow: 0px 0px 5px #2230473d;
+}
+
+/*section (3)*/
+#company{
+    background-image: url(photos/sec3--bag.png);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:cover ;
+}
+
+
+/*section (4)*/
+#com-part2{
+    background-color: #fff;
+}
+
+
+/*section (5)*/
+.section5-mob{
+    position: relative;
+    top: 50px;
+}
+.bg-body-rounded:hover{
+background-color: #00fff1;
+}
+
+
+/*section (6)*/
+#bottom{
+    background-image: url(photos/sec6-bag.png);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:cover ;
+}
+
+/*section (7)*/
+#video{
+    background-color: #223047;
+}
+.video55{
+    width: 70%;
+}
+/*section (8)*/
+#map{
+    background-color: #fff;
+    background-image: url(photos/map.png);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:cover ;
+}
+/*section (9)*/
+.quote{
+    color: #00fff1;
+    width: 70%;
+}
+
+/*section (10)*/
+#Add{
+    background-color: #f5f6fa;
+}
+.add-mob{
+    padding-left: 130px;
+}
+.add-para{
+   width: 70%; 
+}
+.google-btn:hover{
+    background-color: white;
+    box-shadow:0px 0px 5px black;
+    border-radius: 5px;
+}
+.store-btn:hover{
+    background-color: white;
+    box-shadow:0px 0px 5px black;
+    border-radius: 5px;
+}
+.add-btn{
+    width: 25%;
+    position: relative;
+    top: 25px;
+}
+
+
+/*section (11)*/
+#footer{
+    background-color: #fff;
+}
+.footer-form{
+color:#f5f6fa ;
+}
+/*section (12)*/
+#end{
+    color: #00fff1;
+}
+.end-btn{
+    background-color: #223047;
+}
+.end-btn:hover{
+    border-radius: 20px;
+    box-shadow:0px 0px 5px #00fff1;
+}
